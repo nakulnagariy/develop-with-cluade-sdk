@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Extract the AWS account ID from an ARN string like 'arn:aws:s3:::my-bucket/my-key'",
+    "format": "regex"
+  },
+  {
+    "task": "Create a JSON CloudFormation template snippet for an S3 bucket with versioning enabled and public access blocked",
+    "format": "json"
+  },
+  {
+    "task": "Write a Python function that takes an AWS region code and returns the corresponding region name (e.g., 'us-east-1' returns 'N. Virginia')",
+    "format": "python"
+  }
+]
