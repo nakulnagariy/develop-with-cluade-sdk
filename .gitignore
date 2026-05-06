@@ -1,2 +1,7 @@
 .env
 venv/
+
+# Generated outputs
+*.bak
+output.json
+output.html
